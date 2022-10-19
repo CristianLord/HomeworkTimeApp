@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:animateLayoutChanges="true"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="6dp"
+    app:cardUseCompatPadding="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="Recordatorio 1"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgMatter"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_below="@+id/txtTitle"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="6dp"
+            android:src="@drawable/ic_icon_circle" />
+
+        <TextView
+            android:id="@+id/txtMatter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtTitle"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/imgMatter"
+            android:text="Materia 1" />
+
+        <TextView
+            android:id="@+id/txtDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imgMatter"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="12dp"
+            android:layout_toLeftOf="@+id/imgPhoto"
+            android:maxLines="1"
+            android:text="Descripcion de la tarea" />
+
+        <TextView
+            android:id="@+id/txtDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="25, Mayo - 18:00" />
+
+        <ImageView
+            android:id="@+id/imgPhoto"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/txtDate"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/ic_icon_camera" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+

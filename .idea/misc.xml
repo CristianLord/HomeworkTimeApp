@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HomeworkTime/app/src/main/res/layout/activity_complete.xml" value="0.22" />
+        <entry key="..\:/HomeworkTime/app/src/main/res/layout/activity_info.xml" value="0.22" />
+        <entry key="..\:/HomeworkTime/app/src/main/res/layout/activity_schedule.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/drawable/ic_icon_calendar.xml" value="0.1455" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/drawable/ic_icon_camera.xml" value="0.1455" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/drawable/redounded_corners.xml" value="0.1455" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/drawable/rounded_corners.xml" value="0.1455" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/drawable/splash_background.xml" value="0.2105" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/activity_index.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/activity_info.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/activity_save.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/activity_schedule.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/color_picker.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/list_element.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/layout/list_element_event_soon.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/HomeworkTime/app/src/main/res/menu/menu.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

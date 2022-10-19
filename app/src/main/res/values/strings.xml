@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeworkTime</string>
+    <string name="app_logo">No olvides ninguna tarea</string>
+    <string name="new_hwm">Nueva tarea</string>
+    <string name="title">Título</string>
+    <string name="course">Asignatura</string>
+    <string name="date">Fecha</string>
+    <string name="description">Descripción</string>
+    <string name="photo">Foto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <string name="choose">Escoge un color</string>
+    <string name="edit">Editar</string>
+    <string name="complete">Completado</string>
+    <string name="delete">Eliminar</string>
+    <string name="schedule">Calendario</string>
+    <string name="events_soon">Próximos eventos</string>
+</resources>
